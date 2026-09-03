@@ -294,6 +294,12 @@ function App() {
           <a href="https://www.polygnan.org" target="_blank" rel="noopener noreferrer">Polygnan</a>.
         </p>
         <p style={{ marginTop: '8px', fontSize: '12px' }}>
+          Built by{' '}
+          <a href="https://github.com/Aadi8505" target="_blank" rel="noopener noreferrer">Aaditya</a>{' '}
+          ·{' '}
+          <a href="https://github.com/Aadi8505/EYFI" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+        </p>
+        <p style={{ marginTop: '6px', fontSize: '11px', color: 'var(--text-muted)' }}>
           © 2026 EYFI Challenge. All rights reserved.
         </p>
       </footer>
